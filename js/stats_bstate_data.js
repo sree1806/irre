@@ -1,4 +1,4 @@
-{"errorFlag":"S","errorMsg":"Success","errorCode":"","list":[{
+var stats_bstate_data = {"errorFlag":"S","errorMsg":"Success","errorCode":"","list":[{
   "responseHeader":{
     "status":0,
     "QTime":8299,
@@ -535,4 +535,4 @@
         "sum":1359.0},
       "network_bills_ct_pen":{
         "sum":1190.0}}}}
-]}
+]};

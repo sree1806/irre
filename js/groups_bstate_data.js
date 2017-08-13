@@ -1,4 +1,4 @@
-var ppo_data_bs = {
+var groups_bstate_data = {
 	"responseHeader": {
 		"status": 0,
 		"QTime": 5921,
